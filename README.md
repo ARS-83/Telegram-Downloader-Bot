@@ -1,9 +1,9 @@
 # Telegram-Downloader-Bot
 
 
-## install in ubuntu
+## install in Ubuntu
 
-### Update Your Operating system 
+### Update Your Ubuntu
 ```
 apt update && apt upgrade -y
 ```
