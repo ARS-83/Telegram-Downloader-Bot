@@ -1,0 +1,13 @@
+pytube
+instaloader
+instabot
+httpx
+asyncio
+aiosqlite
+aiofiles
+soundcloud-lib
+youtube-search-python
+spotdl
+pyrogram
+pyromod
+apscheduler
