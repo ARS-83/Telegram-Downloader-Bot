@@ -1,6 +1,6 @@
 # Telegram-Downloader-Bot
 
-## Downloader soundcloud(song - playlist) - youtube - instagram (story - post - userinfo) 
+
 
 ## you can add multi language in my robot can add lang in language file so ez
 
