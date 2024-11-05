@@ -1,9 +1,12 @@
 # Telegram-Downloader-Bot
 
+## Downloader soundcloud(song - playlist) - youtube - instagram (story - post - userinfo) 
 
-## install in Ubuntu
+## you can add multi language in my robot can add lang in language file so ez
 
-### Update Your Ubuntu
+### install in Ubuntu
+
+#### Update Your Ubuntu
 ```
 apt update && apt upgrade -y
 ```
@@ -12,9 +15,9 @@ apt update && apt upgrade -y
 git clone https://github.com/ARS-83/Telegram-Downloader-Bot.git
 cd xui-bot
 ```
-### So now you need to place your bot token in the main file, then enter your numeric ID for the admin in the config file, then run the import session file <a href="https://instaloader.github.io/troubleshooting.html"> More Info </a> to get your Insta account session from Firefox, then place it in the current folder where your project is located, and put the session name and your Insta account name in the config file.
+#### So now you need to place your bot token in the main file, then enter your numeric ID for the admin in the config file, then run the import session file <a href="https://instaloader.github.io/troubleshooting.html"> More Info </a> to get your Insta account session from Firefox, then place it in the current folder where your project is located, and put the session name and your Insta account name in the config file.
 
-## After you have done what I said above, just download the project requirements and start the robot to get your downloader started.
+### After you have done what I said above, just download the project requirements and start the robot to get your downloader started.
 
 
 ```
