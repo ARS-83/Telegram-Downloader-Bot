@@ -13,7 +13,7 @@ apt update && apt upgrade -y
 ### Clone files 
 ```
 git clone https://github.com/ARS-83/Telegram-Downloader-Bot.git
-
+cd Telegram-Downloader-Bot
 ```
 #### So now you need to place your bot token in the main file, then enter your numeric ID for the admin in the config file, then run the import session file <a href="https://instaloader.github.io/troubleshooting.html"> More Info </a> to get your Insta account session from Firefox, then place it in the current folder where your project is located, and put the session name and your Insta account name in the config file.
 
