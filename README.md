@@ -43,6 +43,3 @@ kill -9 NUMBERID
  
 </p>
 
-<a href="http://www.coffeete.ir/AlirezaSaeed">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-</a>
