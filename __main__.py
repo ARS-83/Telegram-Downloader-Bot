@@ -10,9 +10,9 @@ import pyromod
 language = []
 plugins = dict(root="plugins")
 app = Client("ARS_DL", 
-             api_id=27920385,
+             api_id=11111111,
              plugins=plugins,
-             api_hash="6ef7b57f85f5d96dfbde6b4fd36412be",
+             api_hash="JUSTCHANGEIT",
              bot_token="6489326673:AAF20M8j0FHspx1NyyMms4SHKrSYO3G3hGQ")
 
 
